@@ -1,0 +1,17 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/shinyting/findTheOneGame",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "^1.1.6"
+  }
+}
